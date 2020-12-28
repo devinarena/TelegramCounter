@@ -8,6 +8,6 @@ Run the python file in your command prompt or terminal and enter the directory o
 The program will scrape every html file and count the number of messages per month and year then will display them using tkinter and matplotlib.  
 You can save an image of the plot using the button on the bottom left.
 ## Example
-
+![Example Message Plot](Figure_4.png)
 ## License
 Distributed under the MIT License.
